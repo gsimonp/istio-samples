@@ -197,3 +197,5 @@ Delete the 2 GKE clusters:
 ## Further reading
 
 To learn about Multicluster Istio and its different modes, [see the Istio docs](https://preliminary.istio.io/docs/concepts/multicluster-deployments/).
+
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fgsimonp%2Fistio-samples%2Ftree%2Fmaster%2Fmulticluster-gke%2Fdual-control-plane)
